@@ -65,17 +65,27 @@ A web-based bike rental management system. Handles bookings, availability, and r
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![Abhiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhiy4n&show_icons=true&theme=tokyonight" alt="Abhiy4n's Stats" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiy4n&theme=tokyonight" alt="Abhiyan's Streak" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiy4n&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
-
-</div>
 
 ---
 
