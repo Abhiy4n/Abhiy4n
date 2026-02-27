@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhiyan%20Limbu&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=fadeIn&fontStyle=italic" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiyan_Limbu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiyan-limbu-5a63383a1/)
 [![Email](https://img.shields.io/badge/Email-growgether1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:growgether1@gmail.com)
