@@ -1,9 +1,9 @@
 
 
 # 👋 Hey, I'm Abhiyan Limbu
-### Web Developer · SEO Intern · Problem Solver from Nepal 🇳🇵
+### Web Developer · SEO Intern 
 
-*"I don't just build projects — I build solutions to problems I actually care about."*
+
 
 <br/>
 
