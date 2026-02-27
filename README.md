@@ -48,50 +48,14 @@ const abhiyan = {
 
 ---
 
-## 🚀 Projects I'm Proud Of
 
-<br/>
 
-### 🏪 StoreTrack 2 — *The upgrade that mattered*
-> **The upgraded store management system — built for real businesses.**
 
-A full-featured inventory and store tracking system. Designed to solve actual day-to-day challenges faced by store owners — tracking stock, managing records, and keeping operations smooth. Built better because I listened to what the first version got wrong.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 📦 StoreTrack — *Where it all began*
-> **Where it all began — my first real-world solution.**
-
-The original StoreTrack. Built from scratch to understand how stores work and how software can make them better. Not perfect — but real, and that matters more.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
-
-### 🚲 Rental Bikes — *Making movement easier*
-> **A bike rental platform built for real users with real needs.**
-
-A web-based rental bike system that lets users browse, book, and manage bike rentals. Built to tackle a practical everyday problem in a simple, usable way. Every feature came from thinking: *"what would the actual user need?"*
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
 
 ## 📚 Currently Learning
 
-> I'm not trying to learn everything — just the right things, deeply.
+
 
 | What | Why |
 |------|-----|
