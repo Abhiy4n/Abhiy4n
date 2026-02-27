@@ -1,24 +1,9 @@
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiyan_Limbu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiyan-limbu-5a63383a1/)
-[![Email](https://img.shields.io/badge/Email-growgether1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:growgether1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](#)
+## 👋 Hello ! I'm Abhiyan.
+I'm a BCA student and web developer building real projects with HTML, CSS, PHP and MySQL. Still growing my confidence writing code manually, and using AI as a thinking partner to understand concepts faster. Also genuinely skilled in SEO optimization — applied daily at my internship with Sanken Technology.
 
-</div>
 
----
-
-## 👋 Namaste! I'm Abhiyan.
-
-I'm a BCA student at Patan Multiple Campus and a Developer based in 🌏 Nepal. I'm on a mission to turn real-world problems into working software.
-
-I didn't start coding for a title—I started because I kept seeing things around me that software could fix. That curiosity turned into 3 real-world projects, and those projects became a passion I can't put down.
-
-I'm currently focused on HTML, CSS, JavaScript, PHP, and MySQL. I use AI to understand complex concepts and speed up my workflow, but I’m equally committed to coding manually to master the logic behind every build.
-
-> 💡 *" I also strongly believe that The best software isn't born in textbooks — it's born from problems worth solving."*
-
----
 
 ## 🛠️ My Tech Stack
 
