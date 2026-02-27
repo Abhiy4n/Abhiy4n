@@ -24,8 +24,7 @@ const abhiyan = {
   internship: "SEO Intern @ Sanken Technology",
   building:   ["StoreTrack 2", "Rental Bike System", "This portfolio"],
   learning:   ["PHP (deeper)", "MySQL", "JavaScript"],
-  philosophy: "I love solving real problems and making things better than they were yesterday.",
-  funFact:    "I use AI to think faster — and manual code to build stronger 💪"
+  
 };
 ```
 
