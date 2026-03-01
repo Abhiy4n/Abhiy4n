@@ -66,36 +66,6 @@ const abhiyan = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Abhiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiy4n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e8503a&icon_color=e8503a&text_color=ede9e3)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiy4n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e8503a&text_color=ede9e3)
-
-</div>
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
 
 I'm always open to connecting with other developers, collaborating on projects, or just talking about tech.
 
-**If you have a real problem that needs a web solution — let's talk.**
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-@abhiyen.m-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhiyen.m)
-[![Facebook](https://img.shields.io/badge/Facebook-Abhiyan_Limbu-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abhiyan.limbu.31)
-[![Gmail](https://img.shields.io/badge/Email-Abhiyanlimbu2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abhiyanlimbu2@gmail.com)
-
-<br/>
-
----
-
-*Made with curiosity and a lot of trial & error from Patan, Nepal 🇳🇵*
-
-</div>
