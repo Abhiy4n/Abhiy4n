@@ -1,117 +1,145 @@
 <div align="center">
 
-# Abhiyan Limbu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Abhiyan%20Limbu&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-**Web Developer · SEO Intern · BCA Student**
-
-*Building things on the web from Patan, Lalitpur — Nepal 🇳🇵*
-
-[![Instagram](https://img.shields.io/badge/-abhiyen.m-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abhiyen.m)
-[![Facebook](https://img.shields.io/badge/-abhiyan.limbu.31-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/abhiyan.limbu.31)
-[![Gmail](https://img.shields.io/badge/-Abhiyanlimbu2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Abhiyanlimbu2@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%C2%B7+React+%C2%B7+Flutter;Building+for+web+%26+mobile;Open+to+Collabs+%26+Freelance" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## About
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFxcjJ3N3F2NWc2b3ZyNTkxcWV5enNnb256NXVibjNyejVsMGo5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif" width="280" align="right" style="margin-left: 20px;"/>
 
-I'm a 5th semester BCA student at Patan Multiple Campus, currently interning as an SEO specialist at **Sanken Technology**. I enjoy building clean, functional web apps and am always looking to sharpen my skills across the full stack.
+### 👋 Hey, I'm Abhiyan
 
 ```js
 const abhiyan = {
-  location:   "Patan, Lalitpur — Nepal 🇳🇵",
-  education:  "BCA 5th Semester @ Patan Multiple Campus",
+  location:   "Patan, Lalitpur 🇳🇵",
+  role:       "Full Stack Developer",
+  education:  "BCA @ Patan Multiple Campus",
   internship: "SEO Intern @ Sanken Technology",
-  building:   ["Guide Management System", "StoreTrack 2", "Rental Bike System"],
-  learning:   ["React", "Laravel", "PHP (advanced)", "MySQL"],
-  openTo:     ["Collaborations", "Open Source", "Freelance Projects"],
+  stack:      ["Laravel", "React", "Flutter", "PHP", "MySQL"],
+  building:   ["Guide Management System",
+               "StoreTrack 2", 
+               "Rental Bike System"],
+  openTo:     ["Collabs", "Open Source", "Freelance"],
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🌟 Featured Project — Guide Management System
+## 🌟 Featured — Guide Management System
 
-> A role-based platform connecting tour guides, travel agencies, and administrators — built for the tourism industry.
+> A role-based platform connecting tour guides, travel agencies, and administrators — built for the Nepal tourism industry.
 
-**Three-tier access control with real-time availability management:**
+<table>
+<tr>
+<td width="55%">
+
+**Three-tier access control:**
 
 | Role | Capabilities |
 |---|---|
-| 🔴 **Super Admin** | Full platform oversight — manage agencies, guides, trips, and all bookings |
-| 🟠 **Agency** | View guide availability, request trips, track booking statuses |
-| 🟢 **Guide** | Mark availability on personal calendar, accept or decline trip requests |
+| 🔴 **Super Admin** | Full oversight — agencies, guides, trips, bookings |
+| 🟠 **Agency** | Browse guides, send trip requests, track status |
+| 🟢 **Guide** | Set calendar availability, accept/decline requests |
 
-**Key Features**
-- 📅 **Interactive Calendar** — Guides mark themselves busy or available; status is visible to both agencies and admins in real time
-- 🤝 **Trip Request Flow** — Agencies browse available guides and send trip requests directly through the platform
-- 👁️ **Unified Booking View** — All bookings and requests are visible across roles with appropriate permission levels
-- 🔐 **Role-based Auth** — Each user type sees only what they need — clean, scoped dashboards per role
+</td>
+<td width="45%">
 
-**Stack:** PHP · Laravel · MySQL · JavaScript · FullCalendar.js
+**Key Features:**
+- 📅 Interactive calendar via FullCalendar.js
+- 🤝 Direct trip request flow agency → guide
+- 🔐 Scoped dashboards per role
+- 👁️ Unified booking view across all roles
 
----
+</td>
+</tr>
+</table>
 
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🗺️ **Guide Management System** | Three-role tourism platform with calendar booking | Laravel, MySQL, JS |
-| 🛒 **StoreTrack 2** | Inventory & store management system | PHP, MySQL, JS, React, flutter |
-| 🚲 **Rental Bike System** | Bike rental platform with booking flow | PHP, MySQL |
-| 🌐 **Portfolio** | Personal developer portfolio | HTML, CSS, JS |
+**Stack:**
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js" />
 
 ---
 
-## Tech Stack
+## 🗂 Projects
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-#### Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**🗺️ Guide Management System**
+Three-role tourism platform with calendar booking
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,mysql,js" height="24"/>
 
-#### Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=google&logoColor=white)
+</td>
+<td width="50%">
 
-#### AI Tools I Work With
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Kiwi](https://img.shields.io/badge/Kiwi_Browser-6ABD45?style=flat-square&logo=kiwibrowser&logoColor=white)
+**🛒 StoreTrack 2**
+Inventory & store management with mobile app
+<br/>
+<img src="https://skillicons.dev/icons?i=php,react,flutter" height="24"/>
 
-#### Knowledge & Notes
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🚲 Rental Bike System**
+Bike rental platform with full booking flow
+<br/>
+<img src="https://skillicons.dev/icons?i=php,mysql" height="24"/>
+
+</td>
+<td width="50%">
+
+**🌐 Portfolio**
+Personal developer portfolio site
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="24"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+## 🛠 Tech Stack
 
-| Technology | Focus Area |
-|---|---|
-| ⚛️ **React** | Component architecture, hooks, state management |
-| 🐘 **Laravel** | MVC pattern, Eloquent ORM, REST APIs |
-| 📱 **Flutter** | Cross-platform mobile development with Dart |
-| 🗄️ **MySQL** | Query optimization, indexing, schema design |
-| 🔍 **SEO** | Applied hands-on at Sanken Technology internship |
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+**Backend & API**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian" />
+
+**AI Tools I use**
+<br/>
+<img src="https://skillicons.dev/icons?i=openai" />
+&nbsp;<img src="https://cdn.simpleicons.org/anthropic/ffffff" width="45" height="45" title="Claude"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=gemini" />
 
 ---
 
 <div align="center">
 
-*I'm always open to connecting with developers, collaborating on projects, or just talking tech.*
-*Feel free to reach out — let's build something together.*
+*Open to collabs, open source, and freelance — let's build something.*
+&nbsp;·&nbsp; [Abhiyanlimbu2@gmail.com](mailto:Abhiyanlimbu2@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
 </div>
